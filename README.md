@@ -7,4 +7,5 @@ This project aims to explore embedded systems, sensor integration, and real-time
 - Line Sensor: 4 light diodes
 - Other components: Not remember
 # Results:
-Car ran smoothly on this basic map:<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5d1ecde8-20bf-4c5a-8502-de0331c144d1" /> 
+Car ran smoothly on this basic map:
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5d1ecde8-20bf-4c5a-8502-de0331c144d1" /> 
